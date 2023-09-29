@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1696031104 source:d:\ahmed\embbeded systems\code_c\rock_paper_scissors\main.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
